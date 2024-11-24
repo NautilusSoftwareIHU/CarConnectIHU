@@ -12,13 +12,23 @@
 > [!IMPORTANT]
 > Για την δημιουργία ενός short-lived branch, θα πρέπει να ακολουθήσετε τις παρακάτω οδηγίες:
 > * Το όνομα του branch θα πρέπει να ξεκινάει με feature/ πχ feature/API.
-> * Τα merge στην main θα γίνονται **μόνο** μέσω pull requests και **μόνο** από τα release/ branches
-> * Τα release/ branches υπάρχουν για την οργάνωση των ομάδων ώστε η κάθε ομάδα να έχει το δικό της βασικό branch. Ομοίως, τα merge θα γίνονται μέσω PR.
+> * Τα merge στην main θα γίνονται **μόνο** μέσω pull requests.
 > * Από εκεί και πέρα ο καθένας θα μπορεί να δημιουργεί το δικό του feature/ branch για να αναπτύσσει το δικό του κομμάτι κώδικα.
+
+Παραδείγματα:
+
+feature/backend_login_api
+
+feature/frontend_login_gui
+
+feature/crud_user
+
+τα οποία έπειτα θα κάνουν merge στην main εφόσον είναι λειτουργικά.
 
 ## 📜Προαπαιτούμενα
 ### GITHUB:
 Θα πρέπει να κατεβάσετε το git bash στον υπολογιστή σας και να εξοικειοθείτε με το περιβάλλον του git. Προτιμάται η χρήση του Git CLI έναντι του GIT GUI.
 Λέξεις κλειδιά: Git CLI commands, Git version control, Git intergration in VSCode
+
 
 
