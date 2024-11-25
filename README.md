@@ -17,9 +17,9 @@
 
 Παραδείγματα:
 
-feature/backend_login_api
+feature/backend/login_api
 
-feature/frontend_login_gui
+feature/frontend/login_gui
 
 feature/crud_user
 
