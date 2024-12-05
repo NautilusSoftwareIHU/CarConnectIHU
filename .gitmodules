@@ -1,9 +1,12 @@
 [submodule "backend/backend repo"]
 	path = backend/backend repo
 	url = https://github.com/NautilusSoftwareIHU/CCIHU-Backend
+	branch = main
 [submodule "frontend/frontend repo"]
 	path = frontend/frontend repo
 	url = https://github.com/NautilusSoftwareIHU/CCIHU-Frontend
+	branch = main
 [submodule "mobile/mobile repo"]
 	path = mobile/mobile repo
 	url = https://github.com/NautilusSoftwareIHU/CCIHU-Mobile
+	branch = main
